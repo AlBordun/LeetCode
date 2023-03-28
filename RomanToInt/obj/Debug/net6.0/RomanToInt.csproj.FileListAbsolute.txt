@@ -1,0 +1,5 @@
+T:\GeekBrains\LeetCode\RomanToInt\obj\Debug\net6.0\RomanToInt.csproj.AssemblyReference.cache
+T:\GeekBrains\LeetCode\RomanToInt\obj\Debug\net6.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+T:\GeekBrains\LeetCode\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfoInputs.cache
+T:\GeekBrains\LeetCode\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfo.cs
+T:\GeekBrains\LeetCode\RomanToInt\obj\Debug\net6.0\RomanToInt.csproj.CoreCompileInputs.cache
